@@ -10,6 +10,7 @@ public class Pizza {
 
     private int toppingsPrice;
     private int takeAwayPrice;
+    //Variables for checking
     private boolean isCheeseAdded;
     private boolean isToppingsAdded;
     private boolean isTakeAwayAdded;
